@@ -12,7 +12,7 @@
     margin:auto;
 }
 @media (max-width: 992px) {
-    .content-container{
+    .content-container {
         width: 100%;
     }
 }
@@ -30,7 +30,8 @@
     background-color: #2F6F00;
     color: #fff;
 }
-.basic-btn:hover i {
+.basic-btn:hover i ,
+.btn:hover i {
     margin-left: 3px;
 }
 .text-style {
